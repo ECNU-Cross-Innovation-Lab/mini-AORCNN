@@ -1,5 +1,11 @@
 
-# mini-AORCNN: A lightweight residual convolutional neuralnetwork with self-attention block for micro-expressionclassification
+# (DOI: 10.11896/jsjkx.210500023)mini-AORCNN: A lightweight residual convolutional neuralnetwork with self-attention block for micro-expressionclassification
+
+ResearchGate:
+https://www.researchgate.net/publication/361723066_mini-AORCNNyizhongjiyuBottleneck_Transformerdeqingliangjiweibiaoqingshibiejiagou?_sg%5B0%5D=ge70tuXiu-L-3cfMTI5i7PBS_kueo_30AIKlo7x0WJhSWdPEENxf6BVXkk_G-hpWp4YnhU5dqgRF7PT1u-ric6h0eKccXnvLHbNhLfAs.b2DSmOvyth3I6LyMW-2KDObi9PVrlXuRnjZNa_nRUFtUDHbcqXqVpzoADOEBeDL3WCpxuljuVAnnmZDj3QV4pg
+
+Cite:
+ZHANG Jia-hao, LIU Feng, QI Jia-yin. Lightweight Micro-expression Recognition Architecture Based on Bottleneck Transformer[J]. Computer Science, 2022, 49(6A): 370-377. https://doi.org/10.11896/jsjkx.210500023
 
 ### How to Run the Code
 1.Install packages mentioned in **requirements.txt** 
